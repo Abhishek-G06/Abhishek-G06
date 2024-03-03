@@ -48,7 +48,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Abhishek-G06/Abhishek-G06/snake.svg" alt="Snake animation" />
+<img src="snake.svg" alt="Snake animation" />
 
 
 ###
