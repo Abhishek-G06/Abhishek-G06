@@ -44,11 +44,10 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/Abhishek-G06/count.svg?"  />
+<img src="snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="snake.svg" alt="Snake animation" />
-
+<img align="right" src="https://profile-counter.glitch.me/Abhishek-G06/count.svg?"  />
 
 ###
