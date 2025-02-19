@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br>My name is Abhishek Gupta and I'm a FrontEnd Developer.</h2>
+<h2 align="left">Hi 👋! <br>My name is Abhishek Gupta and I'm a FullStack(MERN) Developer.</h2>
 
 ###
 
