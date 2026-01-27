@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br>My name is Abhishek Gupta and I'm a FullStack(MERN) Developer.</h2>
+<h2 align="left">Hi 👋! <br>My name is Abhishek Gupta and I'm a FullStack(MERN) Developer. <br>Working my way around websites and developing new things. <br>Learning JAPANESE - Certified [NAT Q5, JLPT N4] </h2>
 
 
 
